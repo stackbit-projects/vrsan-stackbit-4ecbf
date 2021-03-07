@@ -29,8 +29,9 @@ form_fields:
   - input_type: checkbox
     name: consent
     label: >-
-      I understand that this form is storing my submitted information so I can
-      be contacted.
+      Razumijem da ova forma čuva moje podatke da bih mogao biti kontaktiran
+      understand that this form is storing my submitted information so I can be
+      contacted.
 submit_label: Pošalji poruku
 seo:
   title: Get in Touch
