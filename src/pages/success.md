@@ -2,7 +2,6 @@
 title: Hvala!
 template: page
 ---
+Hvala što ste nas kontaktirali! Uskoro ćemo Vam odgovoriti.
 
-Thank you for contacting me! I will get back in touch with you soon.
-
-**Have a great day!**
+**Želimo Vam ugodan dan.**
