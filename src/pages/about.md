@@ -30,11 +30,15 @@ seo:
       relativeUrl: true
 template: page
 ---
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Vršani **su smješteni na cca 3,5 km jugoistočno od Tuzle. Planinarska kuća Vršani se nalazi na nadmorskoj visini od 446 metara.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
-> Odlićno mjesto da se uživa u prirodi i druženju. Meri
+
+Sa Vršana se pruža preljep ogled na Tuzlu.
+
+> Odlično mjesto da se uživa u prirodi i druženju. 
+>
+> \<cite>Meri\</cite>
 
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
