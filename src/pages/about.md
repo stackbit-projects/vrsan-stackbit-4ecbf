@@ -34,7 +34,7 @@ Vršani  su smješteni na cca 3,5 km jugoistočno od Tuzle. Planinarska kuća Vr
 
 Sa Vršana se pruža preljep ogled na Tuzlu.
 
-> Odlično mjesto da se uživa u prirodi i druženju.
+> "Odlično mjesto da se uživa u prirodi i druženju."
 >
 > *Meri*
 
