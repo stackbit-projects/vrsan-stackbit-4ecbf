@@ -28,10 +28,7 @@ form_fields:
     default_value: Vaša poruka
   - input_type: checkbox
     name: consent
-    label: >-
-      Razumijem da ova forma čuva moje podatke da bih mogao biti kontaktiran
-      understand that this form is storing my submitted information so I can be
-      contacted.
+    label: Razumijem da ova forma čuva moje podatke da bih mogao biti kontaktiran .
 submit_label: Pošalji poruku
 seo:
   title: Get in Touch
