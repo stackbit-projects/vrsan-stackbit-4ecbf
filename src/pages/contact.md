@@ -24,7 +24,7 @@ form_fields:
       - Other
   - input_type: textarea
     name: message
-    label: Message
+    label: Poruka
     default_value: Vaša poruka
   - input_type: checkbox
     name: consent
