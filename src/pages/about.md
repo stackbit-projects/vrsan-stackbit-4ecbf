@@ -40,4 +40,6 @@ Sa Vršana se pruža preljep ogled na Tuzlu.
 
 Do planinarske kuće se može doći iz grada Tuzle, od sportskog centra Mejdan, markiranom stazom (oko 2 h  hoda). Uživajte u čistom zraku i netaknutoj prirodi.
 
+## Code Blocks\<pre>/\* Some example CSS code \*/&#xA;body {&#xA;  color:red;&#xA;}&#xA;\</pre>&#xA;&#xA;
+
 *Prošetajte do nas.*
