@@ -58,4 +58,4 @@ seo:
       relativeUrl: true
 template: contact
 ---
-Da bi ostalu u kontaktu molimo da ispunite formu ispod
+Da bi ostali u kontaktu molimo da ispunite formu ispod
