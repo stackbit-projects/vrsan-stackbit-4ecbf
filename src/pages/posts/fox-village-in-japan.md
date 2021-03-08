@@ -1,8 +1,7 @@
 ---
 title: Likovna kolonija "Vršani"
 subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
+  “Vršani – beharanje boja” naziv je Dvanaeste Etno Likovne Kolonije 
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
