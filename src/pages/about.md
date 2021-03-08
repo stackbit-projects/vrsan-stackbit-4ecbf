@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:description'
       value: Stranica o Vrsanima, naselju u Tuzli
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/vrsani2-1.jpg
       relativeUrl: true
 template: page
 ---
