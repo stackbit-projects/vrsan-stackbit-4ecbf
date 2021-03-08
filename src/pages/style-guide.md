@@ -63,7 +63,7 @@ The HTML blockquote element defines a long block quotation in the HTML document 
 
 A URL for the source of the quotation may be given using the cite attribute, while a text representation of the source can be given using the \<cite> element.
 
-> > “Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.”
+>  “Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.”
 <cite>―Meri</cite>
 
 <hr />
