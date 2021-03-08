@@ -16,7 +16,7 @@ seo:
       value: Stranica o Vrsanima, naselju u Tuzli
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/vrsani2-1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
