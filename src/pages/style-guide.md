@@ -65,11 +65,9 @@ A URL for the source of the quotation may be given using the cite attribute, whi
 
 > “Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.”
 >
->  \<cite>― Scott Adams\</cite>
+> \<cite>― Scott Adams\</cite>
 
 <hr />
-
-
 
 ## Unordered Lists
 
@@ -106,6 +104,10 @@ body {
   <tr>
     <th>First name</th>
     <th>Last name</th>
+
+ <th>Nick name</th>
+
+
   </tr>
   <tr>
     <td>John</td>
