@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: About Me
     - name: 'twitter:description'
-      value: A page about me and my work
+      value: Stranica o Vrsanima, naselju u Tuzli
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
