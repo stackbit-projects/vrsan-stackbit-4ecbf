@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Me
+      value: O Vrsanima
     - name: 'twitter:description'
       value: Stranica o Vrsanima, naselju u Tuzli
     - name: 'twitter:image'
