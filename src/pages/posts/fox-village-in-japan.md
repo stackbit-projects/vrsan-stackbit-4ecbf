@@ -1,7 +1,7 @@
 ---
 title: Likovna kolonija "Vršani"
 subtitle: >-
-  “Vršani – beharanje boja” - Dvanaesta Etno Likovne Kolonije 
+  “Vršani – beharanje boja” - Dvanaesta Etno Likovna Kolonija 
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
