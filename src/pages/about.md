@@ -3,7 +3,7 @@ title: O Vršanima
 subtitle: netaknuta priroda samo 10 minuta od centra Tuzle
 img_path: images/vrsani2-1.jpg
 seo:
-  title: About Me
+  title: O Vrsanima
   description: A page about me and my work
   extra:
     - name: 'og:type'
