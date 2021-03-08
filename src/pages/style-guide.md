@@ -94,6 +94,8 @@ Represents a list of items. The only difference from the unordered list is taht 
 <pre>/* Some example CSS code */
 body {
   color:red;
+
+  font-size: 18px;
 }
 </pre>
 
@@ -106,7 +108,6 @@ body {
     <th>Last name</th>
 
  <th>Nick name</th>
-
 
   </tr>
   <tr>
