@@ -13,7 +13,7 @@ seo:
       value: O Vrsanima
       keyName: property
     - name: 'og:description'
-      value: A page about me and my work
+      value: S
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
