@@ -56,6 +56,8 @@ pronalaze najljepšu inspiraciju za svoja djela.
 
 <img src="images/vrsani-kolonija.jpg" alt="Likovna Kolonija Vrsani"/>
 
+
+
 U saradnji sa Javnom ustanovom Arhiv Tuzlanskog kantona, održan je 
 okrugli sto o temi “Značaj likovne kolonije Vršani za afirmaciju
 kulturno-historijskog naslijeđa Tuzle i Vršana”.
