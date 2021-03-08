@@ -57,7 +57,7 @@ Kolonija će trajati dva dana, a učešće je uzelo oko 30 učesnika iz
 cijele BiH. Umjetnici kažu da se uvijek rado vraćaju na Vršane jer tu 
 pronalaze najljepšu inspiraciju za svoja djela.
 
-<img src="images/vrsani-kolonija.jpg" alt="">
+<img src="images/vrsani-kolonija.jpg" alt="Likovna Kolonija Vrsani">
 
 U saradnji sa Javnom ustanovom Arhiv Tuzlanskog kantona, održan je  
 okrugli sto o temi “Značaj likovne kolonije Vršani za afirmaciju 
