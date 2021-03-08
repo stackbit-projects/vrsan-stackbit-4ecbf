@@ -13,7 +13,7 @@ seo:
       value: O Vrsanima
       keyName: property
     - name: 'og:description'
-      value: Stranica o Vrsanima naselju u tuzli
+      value: Stranica o Vrsanima naselju u Tuzli
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
