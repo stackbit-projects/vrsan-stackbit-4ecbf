@@ -1,7 +1,6 @@
 ---
 title: Likovna kolonija "Vršani"
-subtitle: >-
-  “Vršani – beharanje boja” - Dvanaesta Etno Likovna Kolonija 
+subtitle: '“Vršani – beharanje boja” - Dvanaesta Etno Likovna Kolonija '
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
@@ -46,25 +45,23 @@ seo:
 template: post
 date: '2020-08-03'
 ---
-“Vršani – beharanje boja” naziv je Dvanaeste Etno Likovne Kolonije 
-koja je počela na lokaciji harem renoviranog mekteba Vršani u blizini 
-planinskog doma na Vršanima a koju organizujeUdruženje građana 
+“Vršani – beharanje boja” naziv je Dvanaeste Etno Likovne Kolonije
+koja je počela na lokaciji harem renoviranog mekteba Vršani u blizini
+planinskog doma na Vršanima a koju organizujeUdruženje građana
 umjetnička likovna kolonija Vršani.
 
-
-
-Kolonija će trajati dva dana, a učešće je uzelo oko 30 učesnika iz 
-cijele BiH. Umjetnici kažu da se uvijek rado vraćaju na Vršane jer tu 
+Kolonija će trajati dva dana, a učešće je uzelo oko 30 učesnika iz
+cijele BiH. Umjetnici kažu da se uvijek rado vraćaju na Vršane jer tu
 pronalaze najljepšu inspiraciju za svoja djela.
 
 <img src="images/vrsani-kolonija.jpg" alt="Likovna Kolonija Vrsani">
 
-U saradnji sa Javnom ustanovom Arhiv Tuzlanskog kantona, održan je  
-okrugli sto o temi “Značaj likovne kolonije Vršani za afirmaciju 
+U saradnji sa Javnom ustanovom Arhiv Tuzlanskog kantona, održan je 
+okrugli sto o temi “Značaj likovne kolonije Vršani za afirmaciju
 kulturno-historijskog naslijeđa Tuzle i Vršana”.
 
-Podršku manifestaciji ove godine dalo je federalno ministarstvo 
-kulture i sporta a kolonija je održana uz sve mjere zaštite od korona 
+Podršku manifestaciji ove godine dalo je federalno ministarstvo
+kulture i sporta a kolonija je održana uz sve mjere zaštite od korona
 virusa.
 
 > The fox never found a better messenger than himself.
