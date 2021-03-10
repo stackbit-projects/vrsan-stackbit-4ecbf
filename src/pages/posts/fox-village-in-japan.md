@@ -7,7 +7,7 @@ thumb_img_path: images/10vrsani-kolonija.jpg
 thumb_img_alt:Vrsani kolonija
 content_img_path: images/kolonija1.jpg
 seo:
-  title: Fox Village In Japan
+  title: Jezero Vršani
   description: >
     Apparently, Japan is covered in magical and irresistibly cute animal
     sanctuaries.
