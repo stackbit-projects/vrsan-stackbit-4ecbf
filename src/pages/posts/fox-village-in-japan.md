@@ -31,8 +31,7 @@ seo:
       value: Fox Village In Japan
     - name: 'twitter:description'
       value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
-        sanctuaries.
+        Jezero Vršani se nalazilo u blizini Tuzle.
     - name: 'twitter:image'
       value: images/10.jpg
       relativeUrl: true
