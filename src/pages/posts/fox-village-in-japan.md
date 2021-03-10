@@ -59,4 +59,4 @@ Podršku manifestaciji ove godine dalo je federalno ministarstvo
 kulture i sporta a kolonija je održana uz sve mjere zaštite od korona
 virusa.
 
-and Hiroshige. The fusion of traditional woodblock printing and Western art led to the creation of manga, a comic book format that is now popular within and outside Japan. Manga-influenced animation for television and film is called anime. Japanese-made video game consoles have been popular since the 1980s. { <a title="Ise Grand Shrine" href="http://en.wikipedia.org/wiki/Ise_Grand_Shrine" target="_blank">Source</a> }
+
