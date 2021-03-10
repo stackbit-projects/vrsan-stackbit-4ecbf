@@ -1,8 +1,16 @@
 ---
 title: Jezero na Vrsanima
 subtitle: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+  ezero Vršani se nalazilo u blizini Tuzle.
+
+  Nalazilo…
+
+  Nastalo na površinskom kopu, bilo je jedno od ljepših jezera nastalih na
+  kopovima.
+
+  Bilo…
+
+  Do 2008. godine
 excerpt: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.
