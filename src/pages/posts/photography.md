@@ -1,10 +1,6 @@
 ---
 title: Počela 12. Etno likovna kolonija “Vršani”
 subtitle: 'Počela 12. Etno likovna kolonija “Vršani” '
-excerpt: >-
-  Photography is the science, art and practice of creating durable images by
-  recording light or other electromagnetic radiation, either electronically by
-  means of an image sensor, or chem
 thumb_img_path: images/green-sycamore.jpg
 thumb_img_alt: Likovna kolonija Vrsani
 content_img_path: images/energetic-planet.jpg
