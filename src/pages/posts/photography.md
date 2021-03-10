@@ -36,7 +36,7 @@ seo:
       value: images/8.jpg
       relativeUrl: true
 template: post
-date: '2020-01-09'
+date: '2020-09-09'
 ---
 
 **Photography is the science**, art and practice of creating durable images by recording light or other electromagnetic radiation, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film.
