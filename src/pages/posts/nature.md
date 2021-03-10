@@ -50,9 +50,44 @@ seo:
       relativeUrl: true
 template: post
 ---
+I onda je krenulo…neko nije znao šta će sa jalovine iz nekog drugog 
+rudnika, neka pametnica se dosjetila, neko je rekao da to može i onda je
+ krenulo.
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+Prije nekoliko dana,  mailom i sa dva video klipa se javio Amar Mehmedinović.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+
+>
+> “
+>
+> *Prvi put sam posjetio ovo jezero prije 5-6 godina i divio se toj ljepoti prirode i okruženja gdje se nalazi.*
+>
+>
+>
+>
+> *Danas sam ponovo posjetio ovo ” jezero ” i imao sam šta da vidim –  
+> jezero je zatrpano šljakom iz površinskog kopa Dubrave jer nisu znali 
+> šta sa njom da rade pa su je samo istresali u prelijepo jezero kojeg 
+> više nema!?*
+>
+>
+>
+>
+> *Volio bih da ovo objavite,  jer se ista sudbina sprema jezeru KOP  Šićki Brod koje želi da zatrpa Termoelektrana.*
+>
+>
+>
+>
+> *Nadam se da neće uspjeti u svojim suludim nastojanjima, jer sve što 
+> je vrijedilo uništeno je (jezero Modrac, rijeka Spreča, rijeka Turija) i
+>  bitno je da Jasmin Imamović pravi svoje bare od Panonskih jezera, a o 
+> ovim ljepotama niko ne vodi računa, nego se, naprotiv, ovako divljački 
+> uništavaju*
+>
+>  “  _Amar
+>
+>
+>
+>
+
