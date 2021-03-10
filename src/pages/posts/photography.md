@@ -32,6 +32,11 @@ seo:
       relativeUrl: true
 template: post
 date: '2020-09-20'
+excerpt: >-
+  “Vršani – beharanje boja” naziv je Dvanaeste Etno Likovne Kolonije koja je
+  počela na lokaciji harem renoviranog mekteba Vršani u blizini planinskog doma
+  na Vršanima a koju organizujeUdruženje građana umjetnička likovna kolonija
+  Vršani.
 ---
 
 **Photography is the science**, art and practice of creating durable images by recording light or other electromagnetic radiation, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film.
