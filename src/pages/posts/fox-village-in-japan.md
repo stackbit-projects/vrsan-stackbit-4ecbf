@@ -19,8 +19,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
-        sanctuaries.
+        Jezero Vršani se nalazilo u blizini Tuzle.
       keyName: property
     - name: 'og:image'
       value: images/10.jpg
