@@ -9,8 +9,7 @@ content_img_path: images/kolonija1.jpg
 seo:
   title: Jezero Vršani
   description: >
-    Apparently, Japan is covered in magical and irresistibly cute animal
-    sanctuaries.
+    Jezero Vršani se nalazilo u blizini Tuzle.
   extra:
     - name: 'og:type'
       value: article
