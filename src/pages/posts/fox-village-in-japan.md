@@ -59,7 +59,7 @@ Podršku manifestaciji ove godine dalo je federalno ministarstvo
 kulture i sporta a kolonija je održana uz sve mjere zaštite od korona
 virusa.
 
-> The fox never found a better messenger than himself.
+
 
 As the programming of <a title="Japan" href="http://en.wikipedia.org/wiki/Japan" target="_blank">Japan’s</a> traditional culture gradually weakened from 1945 on, individual Japanese began to exercise some personal choice in their private lives. But the newly mandated freedoms had a minimal effect on a number of key institutions.
 
