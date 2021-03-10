@@ -2,11 +2,7 @@
 title: Likovna kolonija "Vršani"
 subtitle: '“Vršani – beharanje boja” - Dvanaesta Etno Likovna Kolonija '
 excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
+  Jezero Vršani se nalazilo u blizini Tuzle. Nalazilo… Nastalo na površinskom kopu, bilo je jedno od ljepših jezera nastalih na kopovima. Bilo…do 2008. godine
 thumb_img_path: images/10vrsani-kolonija.jpg
 thumb_img_alt:Vrsani kolonija
 content_img_path: images/kolonija1.jpg
