@@ -8,7 +8,7 @@ excerpt: >-
   such as photographic film.
 thumb_img_path: images/green-sycamore.jpg
 thumb_img_alt: Likovna kolonija Vrsani
-content_img_path: images/8.jpg
+content_img_path: images/energetic-planet.jpg
 seo:
   title: What Is Photography and What It Means To Me
   description: A intresting tale about Photography and me
