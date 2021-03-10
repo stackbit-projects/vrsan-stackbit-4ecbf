@@ -48,7 +48,7 @@ seo:
       value: images/4.jpg
       relativeUrl: true
 template: post
-date: '2011-07-01'
+date: '2011-07-07'
 ---
 I onda je krenulo…neko nije znao šta će sa jalovine iz nekog drugog 
 rudnika, neka pametnica se dosjetila, neko je rekao da to može i onda je
