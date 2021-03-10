@@ -10,8 +10,14 @@ subtitle: >-
 
   Bilo…do 2008. godine
 excerpt: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+  Jezero Vršani se nalazilo u blizini Tuzle.
+
+  Nalazilo…
+
+  Nastalo na površinskom kopu, bilo je jedno od ljepših jezera nastalih na
+  kopovima.
+
+  Bilo…do 2008. godine
 thumb_img_path: images/lake.jpg
 thumb_img_alt: lake
 hide_header: true
